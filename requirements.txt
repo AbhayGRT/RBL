@@ -3,3 +3,4 @@ opencv-python
 pytesseract
 pandas
 datetime
+boto3
