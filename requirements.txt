@@ -1,0 +1,8 @@
+git+https://github.com/shivalikasingh95/transformers.git@image_utils_fix 
+datasets 
+sentencepiece 
+word2number
+gradio==3.8.2
+symspellpy
+pillow
+torch
