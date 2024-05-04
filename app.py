@@ -54,6 +54,6 @@ with demo:
     
     parse_cheque.click(parse_cheque_with_donut, inputs=input_image_parse, outputs=[payee_name,amt_in_words,amt_in_figures,bank_name,cheque_date,amts_matching,stale_check])
                                     
-    gr.Markdown('\n Solution built by: <a href=\"https://twitter.com/singhshiviii/\">Shivalika Singh</a>')
+    gr.Markdown('\n Solution built by: Group 16')
     
 demo.launch()
